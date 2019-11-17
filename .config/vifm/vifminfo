@@ -1,0 +1,204 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/youare/
+	..
+1573424254
+'b
+	/home/youare/bin/
+	..
+1573424254
+'h
+	/home/youare/
+	..
+1573424254
+'z
+	/home/youare/.config/vifm
+	..
+1573424254
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/youare
+	Pictures
+5
+d/home/youare/Pictures
+	..
+0
+d/home/youare
+	..
+0
+d/home
+	..
+0
+d/
+	mnt
+8
+d/mnt
+	..
+0
+d/
+	home
+4
+d/home
+	youare
+1
+d/home/youare
+	..
+0
+d/home
+	..
+0
+d/
+	dev
+2
+d/dev
+	..
+0
+d/
+	home
+4
+d/home
+	youare
+1
+d/home/youare
+	Downloads
+4
+d/home/youare/Downloads
+	..
+0
+d/home/youare
+	Downloads
+4
+d/home/youare/Downloads
+	..
+0
+d/home/youare
+	.config
+5
+d/home/youare/.config
+	nvim
+31
+d/home/youare/.config/nvim
+	plugged
+1
+d/home/youare/.config/nvim/plugged
+	..
+0
+d/home/youare/.config/nvim
+	..
+0
+d/home/youare/.config
+	..
+0
+d/home/youare
+	proj
+34
+d/home/youare/proj
+	..
+0
+d/home/youare
+	.config
+5
+d/home/youare/.config
+	nvim
+13
+d/home/youare/.config/nvim
+	..
+0
+d/home/youare/.config
+	nvim
+10
+d/home/youare/.config/nvim
+	..
+0
+d/home/youare/.config
+	nvim
+4
+d/home/youare/.config/nvim
+	plugged
+2
+d/home/youare/.config/nvim/plugged
+	molokai
+8
+d/home/youare/.config/nvim/plugged/molokai
+	colors
+2
+d/home/youare/.config/nvim/plugged/molokai/colors
+	..
+0
+d/home/youare/.config/nvim/plugged/molokai
+	..
+0
+d/home/youare/.config/nvim/plugged
+	..
+0
+d/home/youare/.config/nvim
+	plugged
+2
+d/home/youare/.config/nvim/plugged
+	molokai
+4
+d/home/youare/.config/nvim/plugged/molokai
+	colors
+2
+d/home/youare/.config/nvim/plugged/molokai/colors
+	molokai.vim
+1
+d
+
+# Right window history (oldest to newest):
+D/home/youare
+	Documents
+3
+D/home/youare/Documents
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:colorscheme zenburn
+:colorscheme gruvbox
+:color gruvbox
+:zo
+:del
+:touch greeting.py
+:rename
+:color
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/youare/.local/share/vifm/Trash/000_nvim-completion-manager
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/youare/.local/share/vifm/Trash/000_nvim-completion-manager
+	/home/youare/.config/nvim/plugged/nvim-completion-manager
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0
