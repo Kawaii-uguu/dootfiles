@@ -44,6 +44,7 @@ Plug 'Yggdroot/indentLine'
 Plug 'avelino/vim-bootstrap-updater'
 Plug 'mhinz/vim-startify'
 let g:make = 'gmake'
+Plug 'kaicataldo/material.vim'
 if exists('make')
         let g:make = 'make'
 endif
@@ -213,7 +214,7 @@ if exists("*fugitive#statusline")
 endif
 
 " vim-airline
-let g:airline_theme = 'bubblegum'
+let g:airline_theme = 'violet'
 let g:airline#extensions#syntastic#enabled = 1
 let g:airline#extensions#branch#enabled = 1
 let g:airline#extensions#tabline#enabled = 1
@@ -578,7 +579,7 @@ map <C-n> :NERDTreeToggle<CR>
 
 "" Turn-on dracula color scheme
 syntax on
-color holokai
+color material
 
 "" ctrlP key for ctrlP plugin
 let g:ctrlp_map = '<c-p>'
